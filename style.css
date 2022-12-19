@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+html, body {
+	max-height: 100vh;
+	max-width: 100vw;
+}
+
+#calc {
+	height: 500px;
+	width: 400px;
+	background-color: #eee;
+	margin: 0 auto;
+	margin-top: 250px;
+}
